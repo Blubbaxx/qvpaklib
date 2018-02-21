@@ -1,0 +1,10 @@
+C:\Users\eg013504\Documents\Visual Studio\qvpak_lib\qvpak_lib\bin\Release\qvpak_lib.dll
+C:\Users\eg013504\Documents\Visual Studio\qvpak_lib\qvpak_lib\bin\Release\qvpak_lib.pdb
+C:\Users\eg013504\Documents\Visual Studio\qvpak_lib\qvpak_lib\obj\Release\qvpak_lib.csprojResolveAssemblyReference.cache
+C:\Users\eg013504\Documents\Visual Studio\qvpak_lib\qvpak_lib\obj\Release\qvpak_lib.csproj.CoreCompileInputs.cache
+C:\Users\eg013504\Documents\Visual Studio\qvpak_lib\qvpak_lib\obj\Release\qvpak_lib.dll
+C:\Users\eg013504\Documents\Visual Studio\qvpak_lib\qvpak_lib\obj\Release\qvpak_lib.pdb
+C:\Users\eg013504\Documents\Visual Studio\qvpak_lib\qvpak_lib\bin\Release\System.Data.SQLite.dll
+C:\Users\eg013504\Documents\Visual Studio\qvpak_lib\qvpak_lib\bin\Release\System.Data.SQLite.pdb
+C:\Users\eg013504\Documents\Visual Studio\qvpak_lib\qvpak_lib\bin\Release\System.Data.SQLite.xml
+C:\Users\eg013504\Documents\Visual Studio\qvpak_lib\qvpak_lib\bin\Release\System.Data.SQLite.dll.config
