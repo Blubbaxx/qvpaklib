@@ -38,7 +38,7 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.SQLite">
-      <HintPath>..\..\..\Software\sqlite-netFx45-binary-bundle-Win32-2012-1.0.104.0\System.Data.SQLite.dll</HintPath>
+      <HintPath>..\..\..\sqlite-netFx45-binary-bundle-Win32-2012-1.0.104.0\System.Data.SQLite.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="log.cs" />
     <Compile Include="sqliteConnection.cs" />
     <Compile Include="testclass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
